@@ -24,14 +24,14 @@ Tapping the icon opens the site full-screen — then one more tap plays Roblox.
 - 🎮 **Your real account** — your games, friends and avatar are all there.
 - 🔒 **Password stays private** — you only type it on Roblox's own screen, never on this page.
 
-## Put it online (GitHub Pages)
+## If You Want To Put This In Your Own Repo
 1. Upload every file in this folder to your repository:
    `index.html`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`,
    `manifest.webmanifest`, `README.md`.
 2. Open **Settings → Pages** → Source **Deploy from a branch** → branch **main**,
    folder **/ (root)** → **Save**.
 3. After ~1 minute it's live at `https://<your-username>.github.io/<repo>/`.
-
+4 credit me if you put this in your own repo
 ---
 *Unofficial fan-made launcher. Not affiliated with or endorsed by Roblox Corporation
 or now.gg. "Roblox" is a trademark of Roblox Corporation. Browser streaming is
